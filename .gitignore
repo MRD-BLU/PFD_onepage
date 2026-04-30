@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE / tools
+.qodo/
+.vscode/
+
+# Internal notes
+info.md
