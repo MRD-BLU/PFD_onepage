@@ -57,7 +57,7 @@ export default function Navigation() {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
               }}
             >
-              <img src="./PFD_blue.png" alt="Logo" className="h-7 w-auto" />
+              <img src="/PFD_onepage/PFD_blue.png" alt="Logo" className="h-7 w-auto" />
             </motion.a>
 
             {/* Desktop Menu */}

@@ -34,7 +34,7 @@ export default function About() {
           >
             <div className="relative aspect-[4/5] rounded-2xl overflow-hidden shadow-card">
               <img
-                src="./PFD_warehouse.png"
+                src="/PFD_onepage/PFD_warehouse.png"
                 alt="Warehouse workers"
                 className="w-full h-full object-cover"
               />
