@@ -73,7 +73,7 @@ export default function Footer() {
               }}
               className="flex items-center gap-2 mb-4"
             >
-              <img src="/PFD_blue.png" alt="Logo" className="h-8 w-auto" />
+              <img src="./PFD_blue.png" alt="Logo" className="h-8 w-auto" />
             </a>
             <p className="text-white/60 text-sm leading-relaxed">
               Innowacyjne rozwiązania logistyczne dla biznesu. 

@@ -52,7 +52,7 @@ export default function Hero() {
         className="absolute inset-0 z-0"
       >
         <video
-        src="/PFD_hero.webm"
+        src="./PFD_hero.webm"
         autoPlay
         muted
         loop

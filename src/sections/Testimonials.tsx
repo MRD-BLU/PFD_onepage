@@ -11,7 +11,7 @@ const testimonials = [
     author: 'Anna Kowalska',
     role: 'Dyrektor Operacyjna',
     company: 'TechCorp',
-    avatar: '/avatar-1.jpg',
+    avatar: './avatar-1.jpg',
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const testimonials = [
     author: 'Marek Nowak',
     role: 'Właściciel',
     company: 'FastShop',
-    avatar: '/avatar-2.jpg',
+    avatar: './avatar-2.jpg',
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const testimonials = [
     author: 'Karolina Wiśniewska',
     role: 'Kierownik Logistyki',
     company: 'ArtGlass',
-    avatar: '/avatar-3.jpg',
+    avatar: './avatar-3.jpg',
   },
 ];
 
